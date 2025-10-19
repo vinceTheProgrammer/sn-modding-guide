@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: Stick Nodes Modding Guide
 permalink: /
 ---
 
-# sn modding guide
+# Introduction
