@@ -1,7 +1,7 @@
 ---
-title: Get Started
+title: Write Java/Kotlin Logic
 author: vinceTheProgrammer
-date: 2025-10-17
+date: 2025-10-15
 category: Jekyll
 layout: post
 ---

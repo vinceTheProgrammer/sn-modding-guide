@@ -1,7 +1,7 @@
 ---
-title: Distribute Your Mod
+title: Interface with Smali
 author: vinceTheProgrammer
-date: 2025-10-22
+date: 2025-10-14
 category: Jekyll
 layout: post
 ---

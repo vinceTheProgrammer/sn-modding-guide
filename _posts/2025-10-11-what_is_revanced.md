@@ -1,9 +1,9 @@
 ---
-title: Write Java/Kotlin Logic
+title: What is ReVanced
 author: vinceTheProgrammer
-date: 2025-10-20
+date: 2025-10-11
 category: Jekyll
 layout: post
 ---
 
-za
+ReVanced is a 
