@@ -53,14 +53,14 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
-  others:
+  examples:
     output: true
     permalink: /:collection/:path/
 
 ordered_collections:
   - posts
+  - examples
   - pages
-  - others
 
 page_width: 800px
 
