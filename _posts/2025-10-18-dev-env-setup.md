@@ -1,5 +1,5 @@
 ---
-title: Set up development environment
+title: Dev Environment Setup
 author: vinceTheProgrammer
 date: 2025-10-18
 category: Jekyll
