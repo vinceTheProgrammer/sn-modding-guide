@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            SN Mod Guide
+longtitle:        Stick Nodes Modding Guide
+author:           vinceTheProgrammer
+email:            vincetheprogrammer@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Learn how to create and share mods for Stick Nodes.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://vinceTheProgrammer.github.io'
+baseurl:          '/sn-modding-guide'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
